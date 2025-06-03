@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "1266652962"  # ⬅️ Substitua pelo seu token do BotFather
+TOKEN = "8089655986:AAHUmJM9U8KafOqs2VbHUcHafx_mN5Nnyy8"  # ⬅️ Substitua pelo seu token do BotFather
 ADMIN_ID = 1266652962
 PIX_KEY = "leide.mari.mari1@gmail.com"
 
